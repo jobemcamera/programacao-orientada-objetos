@@ -1,7 +1,7 @@
 import classes.Conta;
 import classes.Pessoa;
 
-public class App {
+public class SetGet {
     public static void main(String[] args) throws Exception {
         // Classe Pessoa
         Pessoa pessoa = new Pessoa();

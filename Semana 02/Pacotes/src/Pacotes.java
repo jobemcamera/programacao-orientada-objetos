@@ -8,7 +8,7 @@
 import br.com.devFlix.gui.*;
 import br.com.devFlix.videos.*;
 
-public class App {
+public class Pacotes {
 
   public static void main(String[] args) {
     Filme filme = new Filme();
@@ -18,5 +18,10 @@ public class App {
 
     Janela janela = new Janela();
 
+    System.out.println(filme);
+    System.out.println(serie);
+    System.out.println(documentario);
+    System.out.println(animacao);
+    System.out.println(janela);
   }
 }
