@@ -3,7 +3,7 @@ import animais.Cachorro;
 import animais.Galinha;
 import animais.Gato;
 
-public class Heranca {
+public class AnimaisMain {
     public static void main(String[] args) throws Exception {
         Animal animal = new Animal("Jacaré");
         animal.comer();
